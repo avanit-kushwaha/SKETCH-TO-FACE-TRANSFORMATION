@@ -1,4 +1,4 @@
-# Sketch-to-Real-image-Transformation-using-Gan
+# Sketch-to-Real-image-Transformation-using-GAN
 
 
 
